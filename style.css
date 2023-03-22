@@ -1,0 +1,19 @@
+body {
+    background-color: #181630;
+    background-image: linear-gradient(#181630, #2d2445);
+}
+header {
+    color: #ffff;
+}
+.cabecario {
+color: #ffffff;
+}
+.cabecariooo {
+    width: 35%;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+h1 {
+   justify-content: center;
+}
