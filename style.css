@@ -16,4 +16,6 @@ text-align: justify;
 }
 h1 {
   text-align: center;
+  font-size: 60px;
+  font-family: 'Delicious Handrawn', cursive;
 }
