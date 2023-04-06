@@ -12,13 +12,18 @@ header {
 }
 
 .paragrafo1 {
-  width: 45%;
-  text-align: justify;
+  width: 35%;
+  text-align: center;
+  margin-left: 200px;
+  font-size: 20px;
 }
 
 .paragrafo2 {
-  width: 45%;
-  text-align: justify; 
+  width: 35%;
+  text-align: center; 
+  margin-left: 1000px;
+  margin-top: -65px;
+  font-size: 20px
 }
 
 h1 {
