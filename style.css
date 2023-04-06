@@ -1,19 +1,26 @@
 body {
-background-color: #181630;
+  background-color: #181630;
 }
 
 header {
-    color: #ffff;
+  color: #ffff;
 }
-.cabecario {
-color: #ffffff;
-background-image: linear-gradient(#181630, #2d2445);
 
+.cabecario {
+  color: #ffffff;
+  background-image: linear-gradient(#181630, #2d2445);
 }
-.cabecariooo {
-    width: 45%;
-text-align: justify;
+
+.paragrafo1 {
+  width: 45%;
+  text-align: justify;
 }
+
+.paragrafo2 {
+  width: 45%;
+  text-align: justify; 
+}
+
 h1 {
   text-align: center;
   font-size: 60px;
