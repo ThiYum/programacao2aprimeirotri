@@ -4,4 +4,13 @@ background-color: #FFF6DF;
 
 header {
     background-color: #FFC188;
+    position: absolute;
+    width: 1518px;
+    height: 180px;
+    left: -10px;
+    top: -8px;    
+}
+
+.Bakes {
+
 }
