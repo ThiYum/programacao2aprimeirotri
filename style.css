@@ -5,7 +5,8 @@ background-color: #FFF6DF;
 header {
     background-color: #FFC188;
     position: absolute;
-    width: 100%;
+    width: 9876px;
+    margin-right: 0px;
     height: 180px;
     left: -10px;
     top: -8px;    
